@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "printWidth": 80,
+  "useTabs": true,
+  "trailingComma": "all",
+  "proseWrap": "always",
+  "tailwindStylesheet": "./src/app.css",
+  "tailwindFunctions": ["cx", "cva"],
+  "plugins": [
+    "@ianvs/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ]
+}
