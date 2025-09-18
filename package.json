@@ -8,16 +8,25 @@
 		"format": "prettier --write ./src"
 	},
 	"dependencies": {
+		"@corvu/drawer": "^0.2.4",
+		"@kobalte/core": "^0.13.11",
+		"@solidjs/meta": "^0.29.4",
+		"@solidjs/router": "^0.15.3",
 		"@solidjs/start": "^1.1.0",
 		"solid-js": "^1.9.5",
-		"vinxi": "^0.5.7"
+		"vinxi": "^0.5.7",
+		"zod": "^4.1.9"
 	},
 	"engines": {
 		"node": ">=22"
 	},
 	"devDependencies": {
 		"@ianvs/prettier-plugin-sort-imports": "^4.7.0",
+		"@tailwindcss/vite": "^4.1.13",
+		"cva": "^1.0.0-beta.4",
 		"prettier": "^3.6.2",
-		"prettier-plugin-tailwindcss": "^0.6.14"
+		"prettier-plugin-tailwindcss": "^0.6.14",
+		"tailwindcss": "^4.1.13",
+		"vite-tsconfig-paths": "^5.1.4"
 	}
 }
