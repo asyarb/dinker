@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where([data-kb-theme=dark], [data-kb-theme=dark] *));
+
 @theme inline {
 	--font-sans: InterVariable, system-ui;
 }
@@ -112,6 +114,7 @@
 		outline-width: 2px;
 		outline-style: solid;
 		outline-offset: 2px;
+		outline-color: var(--color-blue-500);
 	}
 
 	/* Prevent chrome autofill from changing input styles. */

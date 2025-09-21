@@ -15,7 +15,7 @@ export const SearchInput = (props: Props) => {
 			<input
 				type="search"
 				name="query"
-				class="h-7 w-full rounded-md bg-zinc-800 pr-6 pl-3 text-base outline-blue-500 placeholder:text-sm"
+				class="h-8 w-full rounded-md bg-zinc-200 pr-3 pl-8.5 text-base/none placeholder:text-zinc-500 dark:bg-zinc-800 placeholder:dark:text-zinc-500"
 				placeholder="Search..."
 				value={query}
 				onInput={(e) =>
@@ -25,7 +25,7 @@ export const SearchInput = (props: Props) => {
 					)
 				}
 			/>
-			<MagnifyingGlassIcon class="absolute top-1/2 right-2 size-4 -translate-y-1/2 text-zinc-400" />
+			<MagnifyingGlassIcon class="absolute top-1/2 left-2 size-5 -translate-y-1/2 text-zinc-800 dark:text-zinc-300" />
 		</div>
 	)
 }
