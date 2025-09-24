@@ -1,0 +1,599 @@
+[
+	{
+		"name": "'Aiea District Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true,
+		"location": { "latitude": 21.383492, "longitude": -157.929074 }
+	},
+	{
+		"name": "`Āina Koa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.2809958, "longitude": -157.7789229 }
+	},
+	{
+		"name": "ʻĀhuimanu Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.4358, "longitude": -157.829005 }
+	},
+	{
+		"name": "Ala Moana Regional Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true,
+		"location": { "latitude": 21.289968599999998, "longitude": -157.847657 }
+	},
+	{
+		"name": "Ala Wai Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": {
+			"latitude": 21.286088499999998,
+			"longitude": -157.82816119999998
+		}
+	},
+	{
+		"name": "ʻĀlewa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3302008, "longitude": -157.857403 }
+	},
+	{
+		"name": "Asing Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.350927799999997, "longitude": -158.0252745 }
+	},
+	{
+		"name": "Beretania Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.317076, "longitude": -157.862066 }
+	},
+	{
+		"name": "Booth District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3201759, "longitude": -157.8430304 }
+	},
+	{
+		"name": "Connie Chun Āliamanu Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": {
+			"latitude": 21.357351599999998,
+			"longitude": -157.92621509999998
+		}
+	},
+	{
+		"name": "Crestview Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": {
+			"latitude": 21.409722199999997,
+			"longitude": -157.99472219999998
+		}
+	},
+	{
+		"name": "Dole Community Park",
+		"courts": { "dedicated": 1, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.3087782, "longitude": -157.8508034 }
+	},
+	{
+		"name": "Don. A Andrews Diamond Head Tennis Center",
+		"courts": { "dedicated": 0, "other": 5 },
+		"lights": true,
+		"location": { "latitude": 21.263185999999997, "longitude": -157.817981 }
+	},
+	{
+		"name": "'Ewa Beach Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.3145554, "longitude": -158.007479 }
+	},
+	{
+		"name": "'Ewa Mahiko District Park",
+		"courts": { "dedicated": 0, "other": 8 },
+		"lights": false,
+		"location": { "latitude": 21.3377829, "longitude": -158.0369451 }
+	},
+	{
+		"name": "Fern Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.339631, "longitude": -157.8808929 }
+	},
+	{
+		"name": "Geiger Commnunity Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": false,
+		"location": { "latitude": 21.3334562, "longitude": -158.0277907 }
+	},
+	{
+		"name": "Haha'ione Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.3029777, "longitude": -157.70959489999998 }
+	},
+	{
+		"name": "Haha'ione Valley Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3029777, "longitude": -157.70959489999998 }
+	},
+	{
+		"name": "Hālawa District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.3736522, "longitude": -157.9159355 }
+	},
+	{
+		"name": "Haleʻiwa Beach Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.5986028, "longitude": -158.1031735 }
+	},
+	{
+		"name": "Hauʻula Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.6070444, "longitude": -157.91078589999998 }
+	},
+	{
+		"name": "Hōʻaeʻae Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": {
+			"latitude": 21.390324000000003,
+			"longitude": -158.02718099999998
+		}
+	},
+	{
+		"name": "Honowai Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.383024199999998, "longitude": -158.0271324 }
+	},
+	{
+		"name": "Ka'ōnohi Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.402116, "longitude": -157.935725 }
+	},
+	{
+		"name": "Ka'ala Neighborhood Park",
+		"courts": { "dedicated": 2, "other": 0 },
+		"lights": true,
+		"location": { "latitude": 21.4942705, "longitude": -158.0376441 }
+	},
+	{
+		"name": "Kahaluʻu Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.457490999999997, "longitude": -157.8443084 }
+	},
+	{
+		"name": "Kahuku District Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true,
+		"location": { "latitude": 21.6760201, "longitude": -157.95045109999998 }
+	},
+	{
+		"name": "Kailua District Park",
+		"courts": { "dedicated": 4, "other": 0 },
+		"lights": true,
+		"location": { "latitude": 21.3945948, "longitude": -157.7380738 }
+	},
+	{
+		"name": "Kaimuki Community Park",
+		"courts": { "dedicated": 0, "other": 4 },
+		"lights": true,
+		"location": { "latitude": 21.283120099999998, "longitude": -157.8008446 }
+	},
+	{
+		"name": "Kalākaua District Park",
+		"courts": { "dedicated": 2, "other": 3 },
+		"lights": true,
+		"location": { "latitude": 21.3273623, "longitude": -157.87675919999998 }
+	},
+	{
+		"name": "Kalama Valley Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.2996125, "longitude": -157.67219179999998 }
+	},
+	{
+		"name": "Kalani'anaole Beach Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.376946399999998, "longitude": -158.1415069 }
+	},
+	{
+		"name": "Kaluapuhi Neighborhood Park (Souza Dairy)",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.402656999999998, "longitude": -157.786337 }
+	},
+	{
+		"name": "Kamilo Iki Community Park",
+		"courts": { "dedicated": 6, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.295741, "longitude": -157.6866225 }
+	},
+	{
+		"name": "Kamilo Iki Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.295741, "longitude": -157.6866225 }
+	},
+	{
+		"name": "Kamokila Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3408932, "longitude": -158.1060072 }
+	},
+	{
+		"name": "Kāneʻohe Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": {
+			"latitude": 21.414866900000003,
+			"longitude": -157.80284890000001
+		}
+	},
+	{
+		"name": "Kāneʻohe Community & Senior Center",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.4065457, "longitude": -157.7936794 }
+	},
+	{
+		"name": "Kāneʻohe District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.4091402, "longitude": -157.8088583 }
+	},
+	{
+		"name": "Kapolei Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.333233099999998, "longitude": -158.0682325 }
+	},
+	{
+		"name": "Kapunahala Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.4073575, "longitude": -157.8035105 }
+	},
+	{
+		"name": "Kauluwela Community Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": false,
+		"location": { "latitude": 21.319153999999997, "longitude": -157.859926 }
+	},
+	{
+		"name": "Ke'ehi Lagoon Beach Park",
+		"courts": { "dedicated": 12, "other": 0 },
+		"lights": false,
+		"location": { "latitude": 21.331923800000002, "longitude": -157.8970574 }
+	},
+	{
+		"name": "Keolu Hills Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.3707742, "longitude": -157.7359552 }
+	},
+	{
+		"name": "Kīpapa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.459956599999998, "longitude": -158.0132842 }
+	},
+	{
+		"name": "Koko Head District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.2774105, "longitude": -157.69421309999998 }
+	},
+	{
+		"name": "Koko Head Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.2774105, "longitude": -157.69421309999998 }
+	},
+	{
+		"name": "Kuahelani Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.4367296, "longitude": -158.0162651 }
+	},
+	{
+		"name": "Kunia Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3983943, "longitude": -158.0237214 }
+	},
+	{
+		"name": "Laenani Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.4593269, "longitude": -157.8323831 }
+	},
+	{
+		"name": "Lanakila District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.3265681, "longitude": -157.8621198 }
+	},
+	{
+		"name": "Lehua Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.3882211, "longitude": -157.9718941 }
+	},
+	{
+		"name": "Mākaha Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": {
+			"latitude": 21.471545799999998,
+			"longitude": -158.21292069999998
+		}
+	},
+	{
+		"name": "Makakilo Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.364058, "longitude": -158.0859441 }
+	},
+	{
+		"name": "Makaunulau Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.456722, "longitude": -158.0033369 }
+	},
+	{
+		"name": "Mānana Kai Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.401300499999998, "longitude": -157.9742739 }
+	},
+	{
+		"name": "Mānoa Valley District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.3145454, "longitude": -157.8083048 }
+	},
+	{
+		"name": "Maunawili Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.376497399999998, "longitude": -157.752993 }
+	},
+	{
+		"name": "Maunawili Valley Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.376497399999998, "longitude": -157.752993 }
+	},
+	{
+		"name": "Mililani Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true,
+		"location": { "latitude": 21.453262, "longitude": -158.019126 }
+	},
+	{
+		"name": "Mililani Waena Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.4558711, "longitude": -158.0117938 }
+	},
+	{
+		"name": "Moanalua Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.350706499999998, "longitude": -157.8944057 }
+	},
+	{
+		"name": "Mother Waldron Neighborhood Park",
+		"courts": { "dedicated": 2, "other": 0 },
+		"lights": false,
+		"location": {
+			"latitude": 21.299115999999998,
+			"longitude": -157.85883099999998
+		}
+	},
+	{
+		"name": "Natatorium War Memorial",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.264583899999998, "longitude": -157.8220815 }
+	},
+	{
+		"name": "Noholoa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.4415284, "longitude": -158.0081673 }
+	},
+	{
+		"name": "Nu'uanu Valley Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.335604, "longitude": -157.838463 }
+	},
+	{
+		"name": "Pacheco Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.395008699999998, "longitude": -157.9706206 }
+	},
+	{
+		"name": "Pacific Palisades Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.425935799999998, "longitude": -157.9536755 }
+	},
+	{
+		"name": "Paki Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.2714145, "longitude": -157.8158496 }
+	},
+	{
+		"name": "Pālolo Valley District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.2996698, "longitude": -157.7955025 }
+	},
+	{
+		"name": "Petrie Community Park",
+		"courts": { "dedicated": 1, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.2761258, "longitude": -157.79164849999998 }
+	},
+	{
+		"name": "Pililāʻau Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.4484744, "longitude": -158.1859933 }
+	},
+	{
+		"name": "Pūʻōhala Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.4097135, "longitude": -157.790614 }
+	},
+	{
+		"name": "Pupuole Mini Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3794884, "longitude": -158.0139568 }
+	},
+	{
+		"name": "Pu'unui Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": {
+			"latitude": 21.334231799999998,
+			"longitude": -157.84738439999998
+		}
+	},
+	{
+		"name": "Pu'u'o Hulu Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.407217, "longitude": -158.1656797 }
+	},
+	{
+		"name": "Salt Lake District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": {
+			"latitude": 21.353235899999998,
+			"longitude": -157.91048429999998
+		}
+	},
+	{
+		"name": "Shigeo Ushiro Mānana Neighborhood Park",
+		"courts": { "dedicated": 1, "other": 0 },
+		"lights": false,
+		"location": {
+			"latitude": 21.407907599999998,
+			"longitude": -157.97080689999999
+		}
+	},
+	{
+		"name": "Sunset Beach Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.6640311, "longitude": -158.0505957 }
+	},
+	{
+		"name": "Swanzy Beach Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.5566967, "longitude": -157.8534389 }
+	},
+	{
+		"name": "Wahiawā District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.4998206, "longitude": -158.0231523 }
+	},
+	{
+		"name": "Wai'alae Iki Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.276937699999998, "longitude": -157.7686771 }
+	},
+	{
+		"name": "Waialua District Park",
+		"courts": { "dedicated": 0, "other": 4 },
+		"lights": true,
+		"location": { "latitude": 21.576086399999998, "longitude": -158.1226472 }
+	},
+	{
+		"name": "Wai'anae District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.450616, "longitude": -158.1956373 }
+	},
+	{
+		"name": "Waiau District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.403655999999998, "longitude": -157.9522939 }
+	},
+	{
+		"name": "Waiau Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.3995842, "longitude": -157.9544722 }
+	},
+	{
+		"name": "Wailupe Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.2937016, "longitude": -157.7543634 }
+	},
+	{
+		"name": "Waimānalo District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": { "latitude": 21.342312, "longitude": -157.7149316 }
+	},
+	{
+		"name": "Waimalu Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false,
+		"location": { "latitude": 21.390072, "longitude": -157.9488233 }
+	},
+	{
+		"name": "Waipahū District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true,
+		"location": {
+			"latitude": 21.386954499999998,
+			"longitude": -158.00020619999998
+		}
+	},
+	{
+		"name": "Waipahū Uka Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.391211500000004, "longitude": -158.0110485 }
+	},
+	{
+		"name": "Waipi'o Neighborhood Park",
+		"courts": { "dedicated": 4, "other": 2 },
+		"lights": false,
+		"location": { "latitude": 21.4179736, "longitude": -157.9992168 }
+	},
+	{
+		"name": "Wilson Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true,
+		"location": { "latitude": 21.2812136, "longitude": -157.78432519999998 }
+	}
+]

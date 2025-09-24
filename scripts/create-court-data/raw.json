@@ -1,0 +1,472 @@
+[
+	{
+		"name": "'Aiea District Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true
+	},
+	{
+		"name": "`Āina Koa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "ʻĀhuimanu Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Ala Moana Regional Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true
+	},
+	{
+		"name": "Ala Wai Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "ʻĀlewa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Asing Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Beretania Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Booth District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Connie Chun Āliamanu Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Crestview Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Dole Community Park",
+		"courts": { "dedicated": 1, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Don. A Andrews Diamond Head Tennis Center",
+		"courts": { "dedicated": 0, "other": 5 },
+		"lights": true
+	},
+	{
+		"name": "'Ewa Beach Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "'Ewa Mahiko District Park",
+		"courts": { "dedicated": 0, "other": 8 },
+		"lights": false
+	},
+	{
+		"name": "Fern Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Geiger Commnunity Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": false
+	},
+	{
+		"name": "Haha'ione Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Haha'ione Valley Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Hālawa District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Haleʻiwa Beach Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Hauʻula Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Hōʻaeʻae Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Honowai Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Ka'ōnohi Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Ka'ala Neighborhood Park",
+		"courts": { "dedicated": 2, "other": 0 },
+		"lights": true
+	},
+	{
+		"name": "Kahaluʻu Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Kahuku District Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true
+	},
+	{
+		"name": "Kailua District Park",
+		"courts": { "dedicated": 4, "other": 0 },
+		"lights": true
+	},
+	{
+		"name": "Kaimuki Community Park",
+		"courts": { "dedicated": 0, "other": 4 },
+		"lights": true
+	},
+	{
+		"name": "Kalākaua District Park",
+		"courts": { "dedicated": 2, "other": 3 },
+		"lights": true
+	},
+	{
+		"name": "Kalama Valley Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Kalani'anaole Beach Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Kaluapuhi Neighborhood Park (Souza Dairy)",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Kamilo Iki Community Park",
+		"courts": { "dedicated": 6, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Kamilo Iki Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Kamokila Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Kāneʻohe Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Kāneʻohe Community & Senior Center",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Kāneʻohe District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Kapolei Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Kapunahala Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Kauluwela Community Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": false
+	},
+	{
+		"name": "Ke'ehi Lagoon Beach Park",
+		"courts": { "dedicated": 12, "other": 0 },
+		"lights": false
+	},
+	{
+		"name": "Keolu Hills Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Kīpapa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Koko Head District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Koko Head Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Kuahelani Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Kunia Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Laenani Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Lanakila District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Lehua Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Mākaha Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Makakilo Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Makaunulau Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Mānana Kai Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Mānoa Valley District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Maunawili Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Maunawili Valley Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Mililani Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 3 },
+		"lights": true
+	},
+	{
+		"name": "Mililani Waena Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Moanalua Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Mother Waldron Neighborhood Park",
+		"courts": { "dedicated": 2, "other": 0 },
+		"lights": false
+	},
+	{
+		"name": "Natatorium War Memorial",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Noholoa Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Nu'uanu Valley Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Pacheco Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Pacific Palisades Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Paki Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Pālolo Valley District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Petrie Community Park",
+		"courts": { "dedicated": 1, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Pililāʻau Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Pūʻōhala Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Pupuole Mini Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Pu'unui Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Pu'u'o Hulu Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Salt Lake District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Shigeo Ushiro Mānana Neighborhood Park",
+		"courts": { "dedicated": 1, "other": 0 },
+		"lights": false
+	},
+	{
+		"name": "Sunset Beach Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Swanzy Beach Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Wahiawā District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Wai'alae Iki Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Waialua District Park",
+		"courts": { "dedicated": 0, "other": 4 },
+		"lights": true
+	},
+	{
+		"name": "Wai'anae District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Waiau District Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Waiau Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Wailupe Community Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Waimānalo District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Waimalu Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": false
+	},
+	{
+		"name": "Waipahū District Park",
+		"courts": { "dedicated": 0, "other": 2 },
+		"lights": true
+	},
+	{
+		"name": "Waipahū Uka Neighborhood Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	},
+	{
+		"name": "Waipi'o Neighborhood Park",
+		"courts": { "dedicated": 4, "other": 2 },
+		"lights": false
+	},
+	{
+		"name": "Wilson Community Park",
+		"courts": { "dedicated": 0, "other": 1 },
+		"lights": true
+	}
+]

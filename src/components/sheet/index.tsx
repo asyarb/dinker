@@ -1,4 +1,5 @@
 import Drawer from "@corvu/drawer"
+import { Filters } from "./filters"
 import { FindNearestButton } from "./find-nearest"
 import { SearchInput } from "./search-input"
 import { ThemeToggle } from "./theme-toggle"
@@ -25,6 +26,7 @@ export const Sheet = () => {
 
 					<DragIndicator />
 					<SearchInput class="mt-3" />
+					<Filters class="mt-3" />
 				</Drawer.Content>
 			</Drawer.Portal>
 		</Drawer>
