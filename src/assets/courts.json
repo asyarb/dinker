@@ -3,597 +3,879 @@
 		"name": "'Aiea District Park",
 		"courts": { "dedicated": 0, "other": 3 },
 		"lights": true,
-		"location": { "latitude": 21.383492, "longitude": -157.929074 }
+		"id": "ChIJU2qcVTVvAHwRlTiPO1hSIFQ",
+		"location": { "latitude": 21.383492, "longitude": -157.929074 },
+		"address": "99-350 Aiea Heights Dr, Aiea, HI 96701, USA",
+		"uri": "https://maps.google.com/?cid=6061935637350529173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "`Āina Koa Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.2809958, "longitude": -157.7789229 }
+		"id": "ChIJw5HGnFttAHwRFOkwsP5yZwk",
+		"location": { "latitude": 21.2809958, "longitude": -157.7789229 },
+		"address": "1349 Halekoa Dr, Honolulu, HI 96821, USA",
+		"uri": "https://maps.google.com/?cid=677636707145804052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "ʻĀhuimanu Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.4358, "longitude": -157.829005 }
+		"id": "ChIJ5ZSlvEFqAHwRo1fGP73uq1s",
+		"location": { "latitude": 21.4358, "longitude": -157.829005 },
+		"address": "47-450 Hui Aeko Pl, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=6605635775055157155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Ala Moana Regional Park",
 		"courts": { "dedicated": 0, "other": 3 },
 		"lights": true,
-		"location": { "latitude": 21.289968599999998, "longitude": -157.847657 }
+		"id": "ChIJ2XtQVPxtAHwRXWl1M0s9rQs",
+		"location": { "latitude": 21.289968599999998, "longitude": -157.847657 },
+		"address": "1201 Ala Moana Blvd, Honolulu, HI 96814, USA",
+		"uri": "https://maps.google.com/?cid=841396098583325021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Ala Wai Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
+		"id": "ChIJKbHKyettAHwRF4I3aJ97eX4",
 		"location": {
 			"latitude": 21.286088499999998,
 			"longitude": -157.82816119999998
-		}
+		},
+		"address": "2021 Kapiolani Blvd, Honolulu, HI 96826, USA",
+		"uri": "https://maps.google.com/?cid=9113451245539394071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "ʻĀlewa Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3302008, "longitude": -157.857403 }
+		"id": "ChIJG2slGYBuAHwRhVngdRlLL08",
+		"location": { "latitude": 21.3302008, "longitude": -157.857403 },
+		"address": "922 Lolena St, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=5705861825625610629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Asing Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.350927799999997, "longitude": -158.0252745 }
+		"id": "ChIJFzU7lYpkAHwR0VyZ79kFFIA",
+		"location": { "latitude": 21.350927799999997, "longitude": -158.0252745 },
+		"address": "91-1450 Renton Rd, Ewa Beach, HI 96706, USA",
+		"uri": "https://maps.google.com/?cid=9229007969974836433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Beretania Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.317076, "longitude": -157.862066 }
+		"id": "ChIJKaIJR3duAHwRXERxul7jUMU",
+		"location": { "latitude": 21.317076, "longitude": -157.862066 },
+		"address": "1290 Aala St, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=14218114019603072092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Booth District Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3201759, "longitude": -157.8430304 }
+		"id": "ChIJWWceac5tAHwRRsjMb99IHQ0",
+		"location": { "latitude": 21.3201759, "longitude": -157.8430304 },
+		"address": "2331 Kanealii Ave, Honolulu, HI 96813, USA",
+		"uri": "https://maps.google.com/?cid=944991621308270662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Connie Chun Āliamanu Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
+		"id": "ChIJvwpIU6lvAHwRwR3cG7Q5V20",
 		"location": {
 			"latitude": 21.357351599999998,
 			"longitude": -157.92621509999998
-		}
+		},
+		"address": "Honolulu, HI 96818, USA",
+		"uri": "https://maps.google.com/?cid=7878829518832278977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Crestview Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
+		"id": "ChIJnciy5GNmAHwREtjqjH5_1XA",
 		"location": {
 			"latitude": 21.409722199999997,
 			"longitude": -157.99472219999998
-		}
+		},
+		"address": "94-1220 Lumikula St, Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=8130544883794106386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Dole Community Park",
 		"courts": { "dedicated": 1, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.3087782, "longitude": -157.8508034 }
+		"id": "ChIJxc8lLNxtAHwRAabsdcF91b8",
+		"location": { "latitude": 21.3087782, "longitude": -157.8508034 },
+		"address": "602 Magellan Ave, Honolulu, HI 96813, USA",
+		"uri": "https://maps.google.com/?cid=13823092901144208897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Don. A Andrews Diamond Head Tennis Center",
 		"courts": { "dedicated": 0, "other": 5 },
 		"lights": true,
-		"location": { "latitude": 21.263185999999997, "longitude": -157.817981 }
+		"id": "ChIJJfUdimZyAHwRe2jBQfU0OFM",
+		"location": { "latitude": 21.263185999999997, "longitude": -157.817981 },
+		"address": "3908 Paki Ave, Honolulu, HI 96815, USA",
+		"uri": "https://maps.google.com/?cid=5996601131818641531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "'Ewa Beach Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.3145554, "longitude": -158.007479 }
+		"id": "ChIJXS8N8tpkAHwR1XNRWDraFeA",
+		"location": { "latitude": 21.3145554, "longitude": -158.007479 },
+		"address": "91-955 North Rd, Ewa Beach, HI 96706, USA",
+		"uri": "https://maps.google.com/?cid=16147051983131472853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "'Ewa Mahiko District Park",
 		"courts": { "dedicated": 0, "other": 8 },
 		"lights": false,
-		"location": { "latitude": 21.3377829, "longitude": -158.0369451 }
+		"id": "ChIJlSR-PZpkAHwROt_Kt2cv-gw",
+		"location": { "latitude": 21.3377829, "longitude": -158.0369451 },
+		"address": "91-1205 Renton Rd, Ewa Beach, HI 96706, USA",
+		"uri": "https://maps.google.com/?cid=935111995144462138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Fern Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.339631, "longitude": -157.8808929 }
+		"id": "ChIJ_83SYu1uAHwRMZ_H7JJfgB0",
+		"location": { "latitude": 21.339631, "longitude": -157.8808929 },
+		"address": "1201 Middle St, Honolulu, HI 96819, USA",
+		"uri": "https://maps.google.com/?cid=2125804108761243441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Geiger Commnunity Park",
 		"courts": { "dedicated": 0, "other": 3 },
 		"lights": false,
-		"location": { "latitude": 21.3334562, "longitude": -158.0277907 }
+		"id": "ChIJzTyQS5RkAHwRl-ne5X6RDoo",
+		"location": { "latitude": 21.3334562, "longitude": -158.0277907 },
+		"address": "91-1129 Kahiuka St, Ewa Beach, HI 96706, USA",
+		"uri": "https://maps.google.com/?cid=9948048601116502423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Haha'ione Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.3029777, "longitude": -157.70959489999998 }
+		"id": "ChIJf2shnlYSAHwRs57zlX9Yz6E",
+		"location": { "latitude": 21.3029777, "longitude": -157.70959489999998 },
+		"address": "785 Ainapo St, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=11659635265285365427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Haha'ione Valley Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3029777, "longitude": -157.70959489999998 }
+		"id": "ChIJf2shnlYSAHwRs57zlX9Yz6E",
+		"location": { "latitude": 21.3029777, "longitude": -157.70959489999998 },
+		"address": "785 Ainapo St, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=11659635265285365427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Hālawa District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.3736522, "longitude": -157.9159355 }
+		"id": "ChIJrzSDAC5vAHwRD9DywJdYGVQ",
+		"location": { "latitude": 21.3736522, "longitude": -157.9159355 },
+		"address": "99-795 ʻIwaʻiwa St, Aiea, HI 96701, USA",
+		"uri": "https://maps.google.com/?cid=6059972182404157455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Haleʻiwa Beach Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.5986028, "longitude": -158.1031735 }
+		"id": "ChIJ0SRh69BYAHwR1fOpMHe1A5A",
+		"location": { "latitude": 21.5986028, "longitude": -158.1031735 },
+		"address": "62-449 Kamehameha Hwy, Haleiwa, HI 96712, USA",
+		"uri": "https://maps.google.com/?cid=10377337489913934805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Hauʻula Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.6070444, "longitude": -157.91078589999998 }
+		"id": "ChIJoz0q_v1EAHwRRlweXvay7MI",
+		"location": { "latitude": 21.6070444, "longitude": -157.91078589999998 },
+		"address": "54-050 Kamehameha Hwy, Hauula, HI 96717, USA",
+		"uri": "https://maps.google.com/?cid=14045798109072481350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Hōʻaeʻae Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
+		"id": "ChIJ4VoEIhlkAHwRMFUC7cgzwHg",
 		"location": {
 			"latitude": 21.390324000000003,
 			"longitude": -158.02718099999998
-		}
+		},
+		"address": "94-709 Kaaholo St, Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=8701011418142627120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Honowai Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.383024199999998, "longitude": -158.0271324 }
+		"id": "ChIJI7jB5y9kAHwR0CWlBaqNWjI",
+		"location": { "latitude": 21.383024199999998, "longitude": -158.0271324 },
+		"address": "94-660 Honowai St, Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=3628368211179021776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Ka'ōnohi Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.402116, "longitude": -157.935725 }
+		"id": "ChIJjbWXC7xoAHwRoPgX8Don-qA",
+		"location": { "latitude": 21.402116, "longitude": -157.935725 },
+		"address": "98-750 Kaʻahele St, Aiea, HI 96701, USA",
+		"uri": "https://maps.google.com/?cid=11599626924335823008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Ka'ala Neighborhood Park",
 		"courts": { "dedicated": 2, "other": 0 },
 		"lights": true,
-		"location": { "latitude": 21.4942705, "longitude": -158.0376441 }
+		"id": "ChIJ59daiU9dAHwRKNjgXD3NsT8",
+		"location": { "latitude": 21.4942705, "longitude": -158.0376441 },
+		"address": "73019013, Wahiawa, HI 96786, USA",
+		"uri": "https://maps.google.com/?cid=4589675158702184488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kahaluʻu Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.457490999999997, "longitude": -157.8443084 }
+		"id": "ChIJY4pnuwhqAHwRj8-NX_dIH34",
+		"location": { "latitude": 21.457490999999997, "longitude": -157.8443084 },
+		"address": "47-189 Waihee Rd, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=9088062800354201487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kahuku District Park",
 		"courts": { "dedicated": 0, "other": 3 },
 		"lights": true,
-		"location": { "latitude": 21.6760201, "longitude": -157.95045109999998 }
+		"id": "ChIJG3XyleFPAHwRMZ00EQWvyH8",
+		"location": { "latitude": 21.6760201, "longitude": -157.95045109999998 },
+		"address": "56-170 Pualalea St, Kahuku, HI 96731, USA",
+		"uri": "https://maps.google.com/?cid=9207801874457337137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kailua District Park",
 		"courts": { "dedicated": 4, "other": 0 },
 		"lights": true,
-		"location": { "latitude": 21.3945948, "longitude": -157.7380738 }
+		"id": "ChIJO7N8nN0UAHwRuvLQGcSYEDA",
+		"location": { "latitude": 21.3945948, "longitude": -157.7380738 },
+		"address": "21 S Kainalu Dr, Kailua, HI 96734, USA",
+		"uri": "https://maps.google.com/?cid=3463436081462047418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kaimuki Community Park",
 		"courts": { "dedicated": 0, "other": 4 },
 		"lights": true,
-		"location": { "latitude": 21.283120099999998, "longitude": -157.8008446 }
+		"id": "ChIJbz4KonttAHwRw2K3VgPCek0",
+		"location": { "latitude": 21.283120099999998, "longitude": -157.8008446 },
+		"address": "3521 Waialae Ave, Honolulu, HI 96816, USA",
+		"uri": "https://maps.google.com/?cid=5582988007674700483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kalākaua District Park",
 		"courts": { "dedicated": 2, "other": 3 },
 		"lights": true,
-		"location": { "latitude": 21.3273623, "longitude": -157.87675919999998 }
+		"id": "ChIJGfwPF2FuAHwRE5YglaC2mLs",
+		"location": { "latitude": 21.3273623, "longitude": -157.87675919999998 },
+		"address": "720 McNeill St, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=13517755082365507091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kalama Valley Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.2996125, "longitude": -157.67219179999998 }
+		"id": "ChIJAwIwiCsSAHwRB1UBKeNPJFs",
+		"location": { "latitude": 21.2996125, "longitude": -157.67219179999998 },
+		"address": "555 Kealahou St, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=6567461993677149447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kalani'anaole Beach Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.376946399999998, "longitude": -158.1415069 }
+		"id": "ChIJ7ybL_NeJAHwRMesjsAz1fUc",
+		"location": { "latitude": 21.376946399999998, "longitude": -158.1415069 },
+		"address": "89-269 Farrington Hwy, Waianae, HI 96792, USA",
+		"uri": "https://maps.google.com/?cid=5151542983625272113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kaluapuhi Neighborhood Park (Souza Dairy)",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.402656999999998, "longitude": -157.786337 }
+		"id": "ChIJKxycuxhrAHwROzAner6d4mI",
+		"location": { "latitude": 21.402656999999998, "longitude": -157.786337 },
+		"address": "45-170 Keana Rd, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=7125431001872281659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kamilo Iki Community Park",
 		"courts": { "dedicated": 6, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.295741, "longitude": -157.6866225 }
+		"id": "ChIJk1bbDjcSAHwR_iapMJmU9fY",
+		"location": { "latitude": 21.295741, "longitude": -157.6866225 },
+		"address": "7750 Hawaii Kai Dr, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=17795292888291682046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kamilo Iki Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.295741, "longitude": -157.6866225 }
+		"id": "ChIJk1bbDjcSAHwR_iapMJmU9fY",
+		"location": { "latitude": 21.295741, "longitude": -157.6866225 },
+		"address": "7750 Hawaii Kai Dr, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=17795292888291682046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kamokila Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3408932, "longitude": -158.1060072 }
+		"id": "ChIJUw8Oi-diAHwR0gmILdbbrqs",
+		"location": { "latitude": 21.3408932, "longitude": -158.1060072 },
+		"address": "91-015 Farrington Hwy, Kapolei, HI 96707, USA",
+		"uri": "https://maps.google.com/?cid=12371066939366705618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kāneʻohe Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
+		"id": "ChIJ8f-eLvxqAHwRld9DHcB-J88",
 		"location": {
 			"latitude": 21.414866900000003,
 			"longitude": -157.80284890000001
-		}
+		},
+		"address": "45-529 Keaahala Rd, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=14927038853532606357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kāneʻohe Community & Senior Center",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.4065457, "longitude": -157.7936794 }
+		"id": "ChIJOaszQxxrAHwRjfLuCMMBlcA",
+		"location": { "latitude": 21.4065457, "longitude": -157.7936794 },
+		"address": "45-613 Puohala St, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=13876999763992179341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kāneʻohe District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.4091402, "longitude": -157.8088583 }
+		"id": "ChIJz4auhgBrAHwR3VheHs1Xox0",
+		"location": { "latitude": 21.4091402, "longitude": -157.8088583 },
+		"address": "45-660 Keaahala Rd, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=2135647186793158877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kapolei Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.333233099999998, "longitude": -158.0682325 }
+		"id": "ChIJR5dHt2tjAHwRi6LrIrrHI7E",
+		"location": { "latitude": 21.333233099999998, "longitude": -158.0682325 },
+		"address": "91-1049 Kamaaha Loop, Kapolei, HI 96707, USA",
+		"uri": "https://maps.google.com/?cid=12764265371161830027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kapunahala Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.4073575, "longitude": -157.8035105 }
+		"id": "ChIJY1jkZgFrAHwRovFwDA4KPTk",
+		"location": { "latitude": 21.4073575, "longitude": -157.8035105 },
+		"address": "45-800 Anoi Rd, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=4124463889195790754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kauluwela Community Park",
 		"courts": { "dedicated": 0, "other": 3 },
 		"lights": false,
-		"location": { "latitude": 21.319153999999997, "longitude": -157.859926 }
+		"id": "ChIJ7dOuNHhuAHwRiLjm8NmkE-k",
+		"location": { "latitude": 21.319153999999997, "longitude": -157.859926 },
+		"address": "402 Kauluwela Pl, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=16794948691351222408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Ke'ehi Lagoon Beach Park",
 		"courts": { "dedicated": 12, "other": 0 },
 		"lights": false,
-		"location": { "latitude": 21.331923800000002, "longitude": -157.8970574 }
+		"id": "ChIJ3_mrhFZuAHwRDS-Xa_gkESY",
+		"location": { "latitude": 21.331923800000002, "longitude": -157.8970574 },
+		"address": "465 Lagoon Dr, Honolulu, HI 96819, USA",
+		"uri": "https://maps.google.com/?cid=2743014297420902157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Keolu Hills Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.3707742, "longitude": -157.7359552 }
+		"id": "ChIJG5yaSpYUAHwRJutyeTEwlF0",
+		"location": { "latitude": 21.3707742, "longitude": -157.7359552 },
+		"address": "Keolu Hills Skateboard Park, 1416 Keolu Dr, Kailua, HI 96734, USA",
+		"uri": "https://maps.google.com/?cid=6743067531129580326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kīpapa Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.459956599999998, "longitude": -158.0132842 }
+		"id": "ChIJa0weZxJnAHwRxxeGA0P82iw",
+		"location": { "latitude": 21.459956599999998, "longitude": -158.0132842 },
+		"address": "Mililani, HI 96789, USA",
+		"uri": "https://maps.google.com/?cid=3232173047343880135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Koko Head District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.2774105, "longitude": -157.69421309999998 }
+		"id": "ChIJBXPhXBMSAHwR5kcexhRrMio",
+		"location": { "latitude": 21.2774105, "longitude": -157.69421309999998 },
+		"address": "423 Kaumakani St, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=3040610435395897318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Koko Head Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.2774105, "longitude": -157.69421309999998 }
+		"id": "ChIJBXPhXBMSAHwR5kcexhRrMio",
+		"location": { "latitude": 21.2774105, "longitude": -157.69421309999998 },
+		"address": "423 Kaumakani St, Honolulu, HI 96825, USA",
+		"uri": "https://maps.google.com/?cid=3040610435395897318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kuahelani Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.4367296, "longitude": -158.0162651 }
+		"id": "ChIJy5GZleNmAHwRQZke2u96EKE",
+		"location": { "latitude": 21.4367296, "longitude": -158.0162651 },
+		"address": "Mililani, HI 96789, USA",
+		"uri": "https://maps.google.com/?cid=11605911410308979009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Kunia Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3983943, "longitude": -158.0237214 }
+		"id": "ChIJi_Yp9Z9mAHwR7Uyqa7T8Qh8",
+		"location": { "latitude": 21.3983943, "longitude": -158.0237214 },
+		"address": "941099-941149 Heahea St, Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=2252640615469305069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Laenani Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.4593269, "longitude": -157.8323831 }
+		"id": "ChIJm1mGN3VqAHwRvxZl4KQX1-A",
+		"location": { "latitude": 21.4593269, "longitude": -157.8323831 },
+		"address": "47-070C Laenani Dr, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=16201444181395445439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Lanakila District Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.3265681, "longitude": -157.8621198 }
+		"id": "ChIJ3dBSXX5uAHwR_i441IhqQ7A",
+		"location": { "latitude": 21.3265681, "longitude": -157.8621198 },
+		"address": "1701 Lanakila Ave, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=12701112510023479038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Lehua Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.3882211, "longitude": -157.9718941 }
+		"id": "ChIJCfHS7eFlAHwRjPcaHoFr77w",
+		"location": { "latitude": 21.3882211, "longitude": -157.9718941 },
+		"address": "781 Lehua Ave, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=13614218400864335756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Mākaha Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
+		"id": "ChIJBfoiGguLAHwR98V5Wz3dBFI",
 		"location": {
 			"latitude": 21.471545799999998,
 			"longitude": -158.21292069999998
-		}
+		},
+		"address": "Mākaha Playground, 84-730 Manuku St, Waianae, HI 96792, USA",
+		"uri": "https://maps.google.com/?cid=5910091866614384119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Makakilo Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.364058, "longitude": -158.0859441 }
+		"id": "ChIJSU0K5qhjAHwRPqu67h6pfM0",
+		"location": { "latitude": 21.364058, "longitude": -158.0859441 },
+		"address": "92-1140 Makakilo Dr, Kapolei, HI 96707, USA",
+		"uri": "https://maps.google.com/?cid=14806895625206672190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Makaunulau Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.456722, "longitude": -158.0033369 }
+		"id": "ChIJ-50FyQtnAHwRvYj8_5YDQUE",
+		"location": { "latitude": 21.456722, "longitude": -158.0033369 },
+		"address": "95-800 Makaunulau St, Mililani, HI 96789, USA",
+		"uri": "https://maps.google.com/?cid=4702043433026226365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Mānana Kai Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.401300499999998, "longitude": -157.9742739 }
+		"id": "ChIJ1z8ghzlnAHwRz5MiRD5tC-0",
+		"location": { "latitude": 21.401300499999998, "longitude": -157.9742739 },
+		"address": "1378 Hooli Cir, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=17080866125931254735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Mānoa Valley District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.3145454, "longitude": -157.8083048 }
+		"id": "ChIJS0x9nwdtAHwRu5PeahJk96Q",
+		"location": { "latitude": 21.3145454, "longitude": -157.8083048 },
+		"address": "2721 Kaaipu Ave, Honolulu, HI 96822, USA",
+		"uri": "https://maps.google.com/?cid=11887079771732874171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Maunawili Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.376497399999998, "longitude": -157.752993 }
+		"id": "ChIJg-CC0bYUAHwRBPfpyxk4rQ4",
+		"location": { "latitude": 21.376497399999998, "longitude": -157.752993 },
+		"address": "1503 Ulupii St, Kailua, HI 96734, USA",
+		"uri": "https://maps.google.com/?cid=1057563170948380420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Maunawili Valley Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.376497399999998, "longitude": -157.752993 }
+		"id": "ChIJg-CC0bYUAHwRBPfpyxk4rQ4",
+		"location": { "latitude": 21.376497399999998, "longitude": -157.752993 },
+		"address": "1503 Ulupii St, Kailua, HI 96734, USA",
+		"uri": "https://maps.google.com/?cid=1057563170948380420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Mililani Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 3 },
 		"lights": true,
-		"location": { "latitude": 21.453262, "longitude": -158.019126 }
+		"id": "ChIJecB1WxdnAHwRDTHq16FXWwc",
+		"location": { "latitude": 21.453262, "longitude": -158.019126 },
+		"address": "95-245 Kaloapau St, Mililani, HI 96789, USA",
+		"uri": "https://maps.google.com/?cid=530113733769965837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Mililani Waena Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.4558711, "longitude": -158.0117938 }
+		"id": "ChIJVVVVIA5nAHwR9bMcFPbzORU",
+		"location": { "latitude": 21.4558711, "longitude": -158.0117938 },
+		"address": "95-590 Naholoholo St, Mililani, HI 96789, USA",
+		"uri": "https://maps.google.com/?cid=1529521786693923829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Moanalua Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.350706499999998, "longitude": -157.8944057 }
+		"id": "ChIJR30Hft5uAHwRG7EQZUWOmXU",
+		"location": { "latitude": 21.350706499999998, "longitude": -157.8944057 },
+		"address": "2900 Moanalua Rd, Honolulu, HI 96819, USA",
+		"uri": "https://maps.google.com/?cid=8473960602573779227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Mother Waldron Neighborhood Park",
 		"courts": { "dedicated": 2, "other": 0 },
 		"lights": false,
+		"id": "ChIJt4DtyAluAHwR6W1spIICOlY",
 		"location": {
 			"latitude": 21.299115999999998,
 			"longitude": -157.85883099999998
-		}
+		},
+		"address": "537 Coral St, Honolulu, HI 96813, USA",
+		"uri": "https://maps.google.com/?cid=6213281396038594025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Natatorium War Memorial",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.264583899999998, "longitude": -157.8220815 }
+		"id": "ChIJb6AgcW9yAHwRdnWDBF7AsPM",
+		"location": { "latitude": 21.264583899999998, "longitude": -157.8220815 },
+		"address": "2815 Kalākaua Ave, Honolulu, HI 96815, USA",
+		"uri": "https://maps.google.com/?cid=17559746457152746870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Noholoa Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.4415284, "longitude": -158.0081673 }
+		"id": "ChIJfyqgbQJnAHwRAoaj9CHvO_Q",
+		"location": { "latitude": 21.4415284, "longitude": -158.0081673 },
+		"address": "Mililani, HI 96789, USA",
+		"uri": "https://maps.google.com/?cid=17598922897997661698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Nu'uanu Valley Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.335604, "longitude": -157.838463 }
+		"id": "ChIJp6Q8MDdsAHwRxi5zcq1N4wI",
+		"location": { "latitude": 21.335604, "longitude": -157.838463 },
+		"address": "2925 Pali Hwy, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=208095415134006982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pacheco Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.395008699999998, "longitude": -157.9706206 }
+		"id": "ChIJAwX5-wtmAHwRhpgTrSb4oV0",
+		"location": { "latitude": 21.395008699999998, "longitude": -157.9706206 },
+		"address": "1062 Waimano Home Rd, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=6746946561773901958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pacific Palisades Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.425935799999998, "longitude": -157.9536755 }
+		"id": "ChIJoxyA5SlmAHwRDroIp92lSEc",
+		"location": { "latitude": 21.425935799999998, "longitude": -157.9536755 },
+		"address": "2282 Auhuhu St, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=5136537746424773134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Paki Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.2714145, "longitude": -157.8158496 }
+		"id": "ChIJxdBy93tyAHwRdtAf5-5N-RI",
+		"location": { "latitude": 21.2714145, "longitude": -157.8158496 },
+		"address": "3503 Leahi Ave, Honolulu, HI 96815, USA",
+		"uri": "https://maps.google.com/?cid=1367209650358833270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pālolo Valley District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.2996698, "longitude": -157.7955025 }
+		"id": "ChIJ_dNb6xJtAHwRoH_9m4jrA1A",
+		"location": { "latitude": 21.2996698, "longitude": -157.7955025 },
+		"address": "2007 Palolo Ave, Honolulu, HI 96816, USA",
+		"uri": "https://maps.google.com/?cid=5765710919929528224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Petrie Community Park",
 		"courts": { "dedicated": 1, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.2761258, "longitude": -157.79164849999998 }
+		"id": "ChIJUXkRH2JtAHwR9Apbv-aHV6Q",
+		"location": { "latitude": 21.2761258, "longitude": -157.79164849999998 },
+		"address": "1039 20th Ave, Honolulu, HI 96816, USA",
+		"uri": "https://maps.google.com/?cid=11842083170316651252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pililāʻau Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.4484744, "longitude": -158.1859933 }
+		"id": "ChIJN8bPDUyKAHwRDCkalbi_dpQ",
+		"location": { "latitude": 21.4484744, "longitude": -158.1859933 },
+		"address": "Waianae, HI 96792, USA",
+		"uri": "https://maps.google.com/?cid=10697948764361599244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pūʻōhala Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.4097135, "longitude": -157.790614 }
+		"id": "ChIJn5rG6AJrAHwRTEG2h0LKDzw",
+		"location": { "latitude": 21.4097135, "longitude": -157.790614 },
+		"address": "45-233 Kulauli St, Kaneohe, HI 96744, USA",
+		"uri": "https://maps.google.com/?cid=4327900154019856716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pupuole Mini Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3794884, "longitude": -158.0139568 }
+		"id": "ChIJFdf4JTpkAHwRQLk4KCRjG-k",
+		"location": { "latitude": 21.3794884, "longitude": -158.0139568 },
+		"address": "94-333 Pupuole St, Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=16797128242153175360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pu'unui Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
+		"id": "ChIJAY-zZS5sAHwR27W_Qk1Db0M",
 		"location": {
 			"latitude": 21.334231799999998,
 			"longitude": -157.84738439999998
-		}
+		},
+		"address": "2526 Huene St, Honolulu, HI 96817, USA",
+		"uri": "https://maps.google.com/?cid=4859176522067457499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Pu'u'o Hulu Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.407217, "longitude": -158.1656797 }
+		"id": "ChIJM7Ir7PKJAHwRhMxjQhKZaHE",
+		"location": { "latitude": 21.407217, "longitude": -158.1656797 },
+		"address": "87-440 Kaukama Rd, Waianae, HI 96792, USA",
+		"uri": "https://maps.google.com/?cid=8171949827566062724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Salt Lake District Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
+		"id": "ChIJhya0rB5vAHwRU3pX2myqeyY",
 		"location": {
 			"latitude": 21.353235899999998,
 			"longitude": -157.91048429999998
-		}
+		},
+		"address": "1159 Ala Lilikoi Pl, Honolulu, HI 96818, USA",
+		"uri": "https://maps.google.com/?cid=2772997380073028179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Shigeo Ushiro Mānana Neighborhood Park",
 		"courts": { "dedicated": 1, "other": 0 },
 		"lights": false,
+		"id": "ChIJUZllGRRmAHwRySc6E0WFi_E",
 		"location": {
 			"latitude": 21.407907599999998,
 			"longitude": -157.97080689999999
-		}
+		},
+		"address": "1550 Kuahaka St, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=17405151716625229769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Sunset Beach Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.6640311, "longitude": -158.0505957 }
+		"id": "ChIJFyQ5_fhZAHwRHiBV0_W9la4",
+		"location": { "latitude": 21.6640311, "longitude": -158.0505957 },
+		"address": "59 Kamehameha Hwy, Haleiwa, HI 96712, USA",
+		"uri": "https://maps.google.com/?cid=12580169997639557150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Swanzy Beach Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.5566967, "longitude": -157.8534389 }
+		"id": "ChIJq4X8B6tGAHwRinlJ7pk1m3s",
+		"location": { "latitude": 21.5566967, "longitude": -157.8534389 },
+		"address": "Kaaawa, HI 96730, USA",
+		"uri": "https://maps.google.com/?cid=8906771623299348874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Wahiawā District Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.4998206, "longitude": -158.0231523 }
+		"id": "ChIJOWjxwpJdAHwRA9jAr2JwP9E",
+		"location": { "latitude": 21.4998206, "longitude": -158.0231523 },
+		"address": "1129 Kilani Ave, Wahiawa, HI 96786, USA",
+		"uri": "https://maps.google.com/?cid=15077893646617466883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Wai'alae Iki Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.276937699999998, "longitude": -157.7686771 }
+		"id": "ChIJw8HUtVZtAHwRztbAWgVJsDE",
+		"location": { "latitude": 21.276937699999998, "longitude": -157.7686771 },
+		"address": "Honolulu, HI 96821, USA",
+		"uri": "https://maps.google.com/?cid=3580441991105795790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waialua District Park",
 		"courts": { "dedicated": 0, "other": 4 },
 		"lights": true,
-		"location": { "latitude": 21.576086399999998, "longitude": -158.1226472 }
+		"id": "ChIJTaOE6EZfAHwRUiJ8plPB4GU",
+		"location": { "latitude": 21.576086399999998, "longitude": -158.1226472 },
+		"address": "67-180 Goodale Ave, Waialua, HI 96791, USA",
+		"uri": "https://maps.google.com/?cid=7341079957633507922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Wai'anae District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.450616, "longitude": -158.1956373 }
+		"id": "ChIJZdNbaLGLAHwR90y9hrLijgU",
+		"location": { "latitude": 21.450616, "longitude": -158.1956373 },
+		"address": "85-601 Farrington Hwy, Waianae, HI 96792, USA",
+		"uri": "https://maps.google.com/?cid=400506673275161847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waiau District Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.403655999999998, "longitude": -157.9522939 }
+		"id": "ChIJe_wDjB1mAHwRMBccMUkAJTA",
+		"location": { "latitude": 21.403655999999998, "longitude": -157.9522939 },
+		"address": "98-1650 Kaʻahumanu St, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=3469179402315372336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waiau Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.3995842, "longitude": -157.9544722 }
+		"id": "ChIJ14s595xnAHwRwFOhRfFiRJI",
+		"location": { "latitude": 21.3995842, "longitude": -157.9544722 },
+		"address": "98-500 Ho‘okanikē St, Pearl City, HI 96782, USA",
+		"uri": "https://maps.google.com/?cid=10539657816348644288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Wailupe Community Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.2937016, "longitude": -157.7543634 }
+		"id": "ChIJj4UulckSAHwRsI_sJMnbXgQ",
+		"location": { "latitude": 21.2937016, "longitude": -157.7543634 },
+		"address": "969 Hind Iuka Dr, Honolulu, HI 96821, USA",
+		"uri": "https://maps.google.com/?cid=314930680916905904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waimānalo District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
-		"location": { "latitude": 21.342312, "longitude": -157.7149316 }
+		"id": "ChIJ3RRR8ncTAHwRzq9UbpdvI6s",
+		"location": { "latitude": 21.342312, "longitude": -157.7149316 },
+		"address": "41-415 Hihimanu St, Waimanalo, HI 96795, USA",
+		"uri": "https://maps.google.com/?cid=12331822900852338638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waimalu Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": false,
-		"location": { "latitude": 21.390072, "longitude": -157.9488233 }
+		"id": "ChIJ84nLrqtoAHwRzZsPycIyzBk",
+		"location": { "latitude": 21.390072, "longitude": -157.9488233 },
+		"address": "Aiea, HI 96701, USA",
+		"uri": "https://maps.google.com/?cid=1858916558375459789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waipahū District Park",
 		"courts": { "dedicated": 0, "other": 2 },
 		"lights": true,
+		"id": "ChIJifCiTdNlAHwRITzSrPATWi0",
 		"location": {
 			"latitude": 21.386954499999998,
 			"longitude": -158.00020619999998
-		}
+		},
+		"address": "94-230 Paiwa St, Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=3267946404023254049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waipahū Uka Neighborhood Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.391211500000004, "longitude": -158.0110485 }
+		"id": "ChIJDQ5WlihkAHwRySWODavXjgM",
+		"location": { "latitude": 21.391211500000004, "longitude": -158.0110485 },
+		"address": "Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=256379358473496009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Waipi'o Neighborhood Park",
 		"courts": { "dedicated": 4, "other": 2 },
 		"lights": false,
-		"location": { "latitude": 21.4179736, "longitude": -157.9992168 }
+		"id": "ChIJjYEfkl9mAHwRpzF5jcStgJU",
+		"location": { "latitude": 21.4179736, "longitude": -157.9992168 },
+		"address": "Waipahu, HI 96797, USA",
+		"uri": "https://maps.google.com/?cid=10772801368368951719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	},
 	{
 		"name": "Wilson Community Park",
 		"courts": { "dedicated": 0, "other": 1 },
 		"lights": true,
-		"location": { "latitude": 21.2812136, "longitude": -157.78432519999998 }
+		"id": "ChIJO4cRlF1tAHwRIvS-223_mdE",
+		"location": { "latitude": 21.2812136, "longitude": -157.78432519999998 },
+		"address": "4901 Kilauea Ave, Honolulu, HI 96816, USA",
+		"uri": "https://maps.google.com/?cid=15103383672666911778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 	}
 ]
