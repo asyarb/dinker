@@ -41,4 +41,4 @@ const result = await pMap(raw, getCourtLocation, { concurrency: 5 })
 const json = JSON.stringify(result)
 const data = await prettier.format(json, { parser: "json" })
 
-await Bun.write("./src/assets/courts.json", data)
+await Bun.write("./src/assets/parks.json", data)

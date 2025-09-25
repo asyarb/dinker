@@ -88,10 +88,6 @@
 		font-synthesis: style;
 	}
 
-	body {
-		overflow-x: hidden;
-	}
-
 	/** Prevent flash of highlighted color on interactable element press. */
 	a,
 	input,
