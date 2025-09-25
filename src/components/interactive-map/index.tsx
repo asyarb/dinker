@@ -1,16 +1,13 @@
 import "mapbox-gl/dist/mapbox-gl.css"
 import { useColorMode } from "@kobalte/core"
 import mapboxgl from "mapbox-gl"
-import { createContext, createEffect, onMount } from "solid-js"
+import { createEffect, onMount } from "solid-js"
+import { MapContext } from "./context"
 import { MapT } from "./types"
 
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN
 
-type MapContextValue = { map?: mapboxgl.Map }
-
-const MapContext = createContext<MapContextValue>({})
-
-export const InteractiveMap = () => {
+export const InteractiveMap = (props: { courts: MapT.Court[] }) => {
 	const { colorMode } = useColorMode()
 
 	let container!: HTMLDivElement

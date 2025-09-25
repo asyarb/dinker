@@ -181,3 +181,23 @@
 	--tw-exit-translate-y: calc(--value(ratio) * 100%);
 	--tw-exit-translate-y: calc(--value(integer) * var(--spacing));
 }
+
+@utility scrollbar-hide {
+	/* Firefox */
+	scrollbar-width: none;
+
+	/* Safari and Chrome */
+	&::-webkit-scrollbar {
+		display: none;
+	}
+}
+
+@utility scrollbar-default {
+	/* Firefox */
+	scrollbar-width: auto;
+
+	/* Safari and Chrome */
+	&::-webkit-scrollbar {
+		display: block;
+	}
+}

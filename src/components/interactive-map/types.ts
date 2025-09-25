@@ -6,12 +6,19 @@ export namespace MapT {
 		Dusk = "dusk",
 	}
 
-	export type Park = {
+	export type Court = {
 		name: string
 		courts: {
 			dedicated: number
 			other: number
 		}
 		lights: boolean
+		id: string
+		location: {
+			latitude: number
+			longitude: number
+		}
+		address: string
+		uri: string
 	}
 }
