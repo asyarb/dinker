@@ -16,7 +16,7 @@ export default createHandler(() => (
 					{assets}
 				</head>
 
-				<body class="h-full bg-zinc-100 text-zinc-950 dark:bg-black dark:text-zinc-100">
+				<body class="h-full bg-zinc-100 text-zinc-950 dark:bg-black dark:text-white">
 					<div id="app" class="h-full">
 						{children}
 					</div>

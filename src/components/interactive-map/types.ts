@@ -6,7 +6,7 @@ export namespace MapT {
 		Dusk = "dusk",
 	}
 
-	export type Court = {
+	export type Park = {
 		name: string
 		courts: {
 			dedicated: number

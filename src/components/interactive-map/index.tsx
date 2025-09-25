@@ -7,7 +7,7 @@ import { MapT } from "./types"
 
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN
 
-export const InteractiveMap = (props: { courts: MapT.Court[] }) => {
+export const InteractiveMap = () => {
 	const { colorMode } = useColorMode()
 
 	let container!: HTMLDivElement

@@ -12,7 +12,7 @@ export const ThemeToggle = () => {
 		<button
 			onClick={toggleColorMode}
 			title={label()}
-			class="absolute -top-2 left-2 inline-flex size-10 -translate-y-full items-center justify-center rounded bg-white text-zinc-500 shadow transition ease-out select-none hover:bg-zinc-100 active:scale-90 active:bg-zinc-100 dark:bg-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:active:bg-zinc-800"
+			class="absolute -top-2 left-3.5 inline-flex size-10 -translate-y-full items-center justify-center rounded bg-white text-zinc-500 shadow transition ease-out hover:bg-zinc-100 active:scale-90 active:bg-zinc-100 dark:bg-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:active:bg-zinc-800"
 		>
 			<span class="sr-only">{label()}</span>
 			{colorMode() === "dark" ? (
