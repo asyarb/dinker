@@ -2,6 +2,7 @@ import { useContext as useDrawerContext } from "@corvu/drawer"
 import { cx } from "cva"
 import { createMemo, createSignal, For } from "solid-js"
 import allParks from "@/assets/parks.json"
+import { normalizeString } from "@/lib/normalize-str"
 import {
 	useDedicatedFilter,
 	useLightsFilter,
@@ -26,11 +27,9 @@ export const Parks = (props: { class?: string }) => {
 			visible = visible.filter((p) => p.courts.dedicated > 0)
 		}
 
-		const q = query.value().toLowerCase()
-		if (q.length >= 1) {
-			visible = visible.filter((p) =>
-				p.name.toLowerCase().includes(q.toLowerCase()),
-			)
+		const q = normalizeString(query.value())
+		if (q.length > 0) {
+			visible = visible.filter((p) => normalizeString(p.name).includes(q))
 		}
 
 		return visible
