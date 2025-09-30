@@ -5,6 +5,7 @@ import {
 	useLightsFilter,
 	useSortFilter,
 } from "@/signals/filters"
+import { button } from "@/styles/button"
 import { ChevronDownIcon } from "../icons/chevron-down"
 import { DedicatedIcon } from "../icons/dedicated"
 import { LightsIcon } from "../icons/lights"
@@ -19,7 +20,7 @@ const ToggleButton = (props: {
 		<button
 			data-active={props.active}
 			aria-label={props.label}
-			class="inline-flex shrink-0 items-center gap-1.5 rounded-md bg-zinc-200 px-3 py-1.5 text-sm font-medium transition ease-out hover:bg-zinc-300 data-[active=true]:bg-blue-200 data-[active=true]:hover:bg-blue-300 dark:bg-zinc-800 dark:text-white dark:hover:bg-zinc-700 dark:data-[active=true]:bg-blue-900 dark:data-[active=true]:hover:bg-blue-800"
+			class={button({ style: "secondary" })}
 			onClick={props.onClick}
 		>
 			{props.children}
@@ -40,7 +41,7 @@ export const Filters = (props: Props) => {
 		<div class={cx(props.class, "flex items-center gap-2")}>
 			<div class="relative -mx-3.5 -my-3 scrollbar-hide shrink-0 justify-start overflow-auto px-3.5 py-3">
 				<select
-					class="appearance-none rounded-md bg-zinc-200 py-1.5 pr-7 pl-3 text-sm font-medium transition ease-out dark:bg-zinc-800 dark:hover:bg-zinc-700"
+					class="appearance-none rounded-md border border-zinc-200 bg-zinc-200 py-1.5 pr-7 pl-3 text-xs font-medium transition ease-out hover:border-zinc-300 hover:bg-zinc-300 dark:border-zinc-800 dark:bg-zinc-800 dark:hover:border-zinc-700 dark:hover:bg-zinc-700"
 					onInput={(e) => sort.update(e.target.value)}
 				>
 					<option disabled value="" selected>
@@ -49,7 +50,7 @@ export const Filters = (props: Props) => {
 					<option value="relevance">Relevance</option>
 					<option value="distance">Distance</option>
 				</select>
-				<ChevronDownIcon class="pointer-events-none absolute top-1/2 right-4.5 size-5 -translate-y-1/2" />
+				<ChevronDownIcon class="pointer-events-none absolute top-1/2 right-4.5 size-4 -translate-y-1/2" />
 			</div>
 
 			<ToggleButton
@@ -61,7 +62,7 @@ export const Filters = (props: Props) => {
 						: "View parks with lights"
 				}
 			>
-				<LightsIcon class="size-4" />
+				<LightsIcon class="size-3.5" />
 				Has Lights
 			</ToggleButton>
 
@@ -74,7 +75,7 @@ export const Filters = (props: Props) => {
 						: "View courts with dedicated nets"
 				}
 			>
-				<DedicatedIcon class="size-4" />
+				<DedicatedIcon class="size-3.5" />
 				Dedicated Courts
 			</ToggleButton>
 		</div>

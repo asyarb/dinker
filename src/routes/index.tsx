@@ -8,8 +8,9 @@ export default function Home() {
 	return (
 		<>
 			<Title>Dinker</Title>
-			<InteractiveMap />
-			<Sheet />
+			<InteractiveMap>
+				<Sheet />
+			</InteractiveMap>
 		</>
 	)
 }

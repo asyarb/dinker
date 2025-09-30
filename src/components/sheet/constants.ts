@@ -1,1 +1,1 @@
-export const DRAWER_SNAP_POINTS = [0.25, 0.675, 1]
+export const DRAWER_SNAP_POINTS = [0.25, 0.45, 1]

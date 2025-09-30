@@ -8,28 +8,56 @@ import {
 	useLightsFilter,
 	useQueryFilter,
 } from "@/signals/filters"
+import { button } from "@/styles/button"
+import { DirectionsIcon } from "../icons/directions"
 import { ExternalIcon } from "../icons/external"
+import { useMapContext } from "../interactive-map/context"
 import type { MapT } from "../interactive-map/types"
 import { DRAWER_SNAP_POINTS } from "./constants"
 
-const Park = (
-	props: Pick<MapT.Park, "name" | "courts" | "address" | "uri">,
-) => {
+type ParkProps = Pick<
+	MapT.Park,
+	"name" | "courts" | "address" | "uri" | "location"
+>
+
+const Park = (props: ParkProps) => {
+	const { map } = useMapContext()
+
+	function moveMapToParkLocation() {
+		map().jumpTo({
+			center: [props.location.longitude, props.location.latitude],
+		})
+	}
+
 	return (
-		<li class="flex flex-col items-start border-b border-zinc-300 px-3.5 py-3 first:pt-0 last:border-b-0 dark:border-zinc-700">
-			<div>
+		<li class="relative flex flex-col items-start border-b border-zinc-300 px-3.5 py-3 transition ease-out last:border-b-0 focus-within:bg-zinc-100 hover:bg-zinc-100 dark:border-zinc-700 dark:focus-within:bg-zinc-800 dark:hover:bg-zinc-800">
+			<button
+				class="absolute inset-0 focus:outline-none"
+				onClick={moveMapToParkLocation}
+			>
+				<span class="sr-only">Jump to {props.name} on the map.</span>
+			</button>
+
+			<div class="isolate">
 				<h3 class="text-base font-medium">{props.name}</h3>
 				<p class="text-sm text-zinc-500 dark:text-zinc-400">{props.address}</p>
 			</div>
 
-			<a
-				href={props.uri}
-				target="_blank"
-				class="mt-3 inline-flex items-center gap-1.5 rounded-md bg-zinc-950 px-3 py-1.5 text-xs font-medium text-white transition ease-out hover:bg-zinc-700 active:bg-zinc-700 dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-300 dark:active:bg-zinc-300"
-			>
-				<ExternalIcon class="size-3" />
-				More Info
-			</a>
+			<div class="isolate mt-3 flex gap-2">
+				<a href={props.uri} target="_blank" class={button()}>
+					<ExternalIcon class="size-3" />
+					More Info
+				</a>
+
+				<a
+					href={props.uri}
+					target="_blank"
+					class={button({ style: "outline" })}
+				>
+					<DirectionsIcon class="size-3" />
+					Directions
+				</a>
+			</div>
 		</li>
 	)
 }
@@ -77,7 +105,7 @@ export const Parks = (props: { class?: string }) => {
 				data-at-top={atTop()}
 				data-scrollable={isSheetScrollable()}
 				onScroll={(e) => setAtTop(e.currentTarget.scrollTop === 0)}
-				class="scrollbar-hide h-full overscroll-contain border-t pt-3 pb-12 data-[at-top=false]:border-zinc-300 data-[at-top=true]:border-transparent data-[scrollable=false]:overflow-hidden data-[scrollable=true]:overflow-auto data-[at-top=false]:dark:border-zinc-700"
+				class="scrollbar-hide h-full overscroll-contain border-t pb-12 data-[at-top=false]:border-zinc-300 data-[at-top=true]:border-transparent data-[scrollable=false]:overflow-hidden data-[scrollable=true]:overflow-auto data-[at-top=false]:dark:border-zinc-700"
 			>
 				<For each={parks()}>
 					{(park) => (
@@ -86,6 +114,7 @@ export const Parks = (props: { class?: string }) => {
 							courts={park.courts}
 							address={park.address}
 							uri={park.uri}
+							location={park.location}
 						/>
 					)}
 				</For>
